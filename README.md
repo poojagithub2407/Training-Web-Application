@@ -1,9 +1,19 @@
-# React + Vite
+# 📚 Training Web Application – Built with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This **Training Web Application** is a responsive and interactive platform developed using **React.js**. It is designed to provide users with an intuitive learning experience, allowing them to explore various training modules, track their progress, and connect with expert trainers.
 
-Currently, two official plugins are available:
+## 🔧 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Training-Web-Application
+- 🔐 **User Authentication** – Secure login and registration system.
+- 🧑‍🏫 **Trainer Profiles** – View details of trainers and their specializations.
+- 📋 **Course Listing** – Browse through a list of available training courses.
+- 🗓️ **Events & Webinars** – Keep track of upcoming training events.
+- 💰 **Pricing Plans** – Transparent pricing with multiple subscription options.
+- 📞 **Contact Form** – Easy communication with the support team.
+- 📱 **Responsive Design** – Optimized for both desktop and mobile devices.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, React Router, React Icons, Tailwind CSS
+
+
